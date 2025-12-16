@@ -1,0 +1,120 @@
+# Directorios de entrada/salida
+data/
+input/
+output/
+bmp/
+png/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de entorno
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de registro
+*.log
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de caché de Python
+.pytest_cache/
+.mypy_cache/
+
+# Archivos de cobertura
+htmlcov/
+.coverage
+.coverage.*
+
+# Archivos de configuración local
+local_settings.py
+db.sqlite3
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp
+*.swo
+*~
+
+# Archivos de distribución
+*.msi
+*.exe
+*.dll
+*.pyd
+*.pyc
+
+# Archivos de desarrollo
+test.py
+
+# Archivos de configuración de VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Archivos de configuración de PyCharm
+.idea/
+!.idea/inspectionProfiles/
+!.idea/runConfigurations/
+!.idea/shelf/
+
+# Archivos de configuración de Jupyter
+.jupyter/
+
+# Archivos de configuración de Python
+.python-version
+
+# Archivos de configuración de Windows
+[Dd]esktop.ini
+
+# Archivos de configuración de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de configuración de Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
